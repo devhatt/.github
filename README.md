@@ -1,8 +1,8 @@
 <p align="center">
   <a href="#1-catálogo-de-pets-personalizado">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/file/d/1veNvCmrgVW0QuqPhS7tcbDowTBGFSjwA/view?usp=sharing">
-      <img src="https://drive.google.com/file/d/1veNvCmrgVW0QuqPhS7tcbDowTBGFSjwA/view?usp=sharing" height="128">
+      <source media="https://github.com/devhatt/.github/blob/main/chapeu-NFT-2-FundoAzul-YT.png">
+      <img src="https://github.com/devhatt/.github/blob/main/chapeu-NFT-2-FundoAzul-YT.png" height="128">
     </picture>
     <h1 align="center">DevHatt</h1>
   </a>
