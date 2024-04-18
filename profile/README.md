@@ -38,7 +38,7 @@ Se você é um entusiasta de pets, desenvolvedor em ascensão ou simplesmente qu
 
 Se precisar de ajuda, tiver sugestões ou quiser se envolver mais profundamente com a comunidade PetDex, entre em contato conosco:
 
-- Discord: [https://discord.gg/qwzKXrzrus](https://discord.gg/qwzKXrzrus)
+- Discord: [https://discord.gg/devhatt](https://discord.gg/devhatt)
 - Twitter: [Devhat (@DevHatt) / X (twitter.com)](https://twitter.com/DevHatt)
 - Linkedin: [Devhat (@DevHat)](https://www.linkedin.com/company/dev-hat/)
 - Dev.To: [Devhat (@DevHat)](https://dev.to/devhat)
