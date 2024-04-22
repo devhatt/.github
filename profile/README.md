@@ -17,8 +17,10 @@ Na DevHatt, nossa missão é proporcionar uma experiência real de desenvolvimen
 - **Compartilhar Conhecimento:** Se tem interesse em transmitir suas ideias através de talks ou palestras sobre temas tecnológicos, oferecemos um palco para isso.
 - **Mentorar e Ser Mentorado:** Quer ajudar outros a crescer? Ou está buscando orientação? Temos um lugar para ambos.
 - **Conectar-se com Desenvolvedores:** Faça parte de uma rede ativa de desenvolvedores que compartilham suas paixões e ideias.
+- **One-a-One:** Precisando de uma ajuda para se achar na carreira? marque um 1:1 com nossos mentores.
+- **Clube do Livro:** Quer discutir um livro sobre tech que você leu recentemente? temos uma espaço para isso.
 
-**Junte-se a nós na DevHatt e transforme sua paixão por tecnologia em impacto real!**
+[**Junte-se a nós na DevHatt e transforme sua paixão por tecnologia em impacto real!**](https://discord.gg/devhatt)
 
 ## Índice
 
@@ -41,17 +43,24 @@ Na DevHatt, adotamos o conceito de Learn in Public para enriquecer a experiênci
 - **Canal de Help no Discord:** Para dúvidas gerais, utilize nosso canal dedicado no Discord. É um espaço perfeito para receber suporte rápido da comunidade.
 - **Salas Interativas:** Prefere uma interação mais direta? Junte-se a qualquer sala aberta no Discord e converse com outros membros que podem ajudar com suas dúvidas em tempo real.
 - **Plantões de Dúvidas:** Organizamos sessões especiais em horários determinados onde mentores estão disponíveis para ajudar com questões mais complexas.
+- **Onboarding:** Preencha nosso formulário de onboarding e apareça as Segundas feiras as 19:00 até as 19:15 para ter um onboarding da comunidade.
+- **One-a-One:** Precisando de uma ajuda para se achar na carreira? marque um 1:1 com nossos mentores.
 
 ### Começando com um Projeto:
 
-1. **Escolha uma Issue:** Navegue pelo nosso repositório de projetos e escolha uma issue que lhe interesse.
+1. **Escolha uma Issue:** Explore nossos repositórios de projetos e escolha uma issue que lhe interesse.
 2. **Acompanhamento Completo:** Desde o clone do projeto até o merge da sua tarefa, nossos mentores estarão ao seu lado. Isso inclui revisão de código, discussões sobre soluções e muito mais.
 
 [Comece sua jornada com a DevHatt agora!](https://discord.gg/devhatt)
 
 ## Projetos atuais
 
-Os projetos abaixo fazem parte da mentoria, portanto, têm dailys, plannings e reviews/retros.
+Os projetos abaixo fazem parte da mentoria. Portanto, possuem os seguintes processos:
+
+- Dailys
+- Plannings
+- Reviews/Retros
+
 
 ### 1. **Octopost**
 
@@ -67,6 +76,8 @@ O aplicativo para postagem em redes sociais All-in-One.
     - Typescript, ElectronJS, Sass e React;
     - [Repositório](https://github.com/devhatt/octopost)
   - **🐙 Backend:**
+    - 🚧 Em breve 🚧
+  - **🐙 CI/CD:**
     - 🚧 Em breve 🚧
   - **🐙Ferramentas**:
     - [Pacote extensões octopost](https://marketplace.visualstudio.com/items?itemName=DevHat.octopost-extension-pack)
@@ -85,6 +96,8 @@ Um app pokedex-like para pets
   - **🐶 Back-end:**
     - Go, Chi e MariaDB.
     - [Repositório](https://github.com/devhatt/pet-dex-backend)
+  - **🐶 CI/CD:**
+    - 🚧 Em breve 🚧
 
 ## Projetos secundários
 
@@ -116,13 +129,16 @@ Se você é apaixonado por pets, um desenvolvedor em ascensão, gosta de usar ch
 
 1. **Desenvolvimento:**
    - Faça um fork do repositório e trabalhe em novas funcionalidades. Todas as tarefas estão listadas nas issues.
-   - Resolva problemas existentes ou proponha novas issues.
+   - Escolha uma issue e trabalhe nela.
+   - Crie ou sugira novas issues.
 2. **Documentação:**
    - Aprimore a documentação existente ou crie tutoriais para ajudar outros desenvolvedores.
 3. **Testes:**
    - Ajude a garantir a estabilidade do aplicativo testando as novas funcionalidades e relatando problemas.
 4. **Palestras/Artigos:**
    - Quer compartilhar aquilo novo que aprendeu com todos? Temos espaço para palestras na comunidade e fóruns para escrita de artigos e guias.
+5. **Clube do Livro:**
+   - Traga discussões sobre livros que você gosta ou quer discutir sobre.
 
 ## Cargos
 
