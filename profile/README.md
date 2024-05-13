@@ -76,7 +76,7 @@ O aplicativo para postagem em redes sociais All-in-One.
     - Typescript, ElectronJS, Sass e React;
     - [Repositório](https://github.com/devhatt/octopost)
   - **🐙 Backend:**
-    - Typescript, Node, PostgreSQL
+    - Typescript, Node, PostgreSQL, Express
     - [Repositório](https://github.com/devhatt/octopost-backend)
   - **🐙 CI/CD:**
     - 🚧 Em breve 🚧
