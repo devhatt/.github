@@ -114,8 +114,6 @@ Estes projetos não fazem parte da mentoria, portanto, não seguem todos os ritu
 
 - [**Snippets**](https://github.com/devhatt/snippets): Conjunto de snippets úteis para facilitar o desenvolvimento. Contribua com seus próprios snippets e torne o trabalho de todos mais eficiente.
 
-- [**LinkTree**](https://github.com/devhatt/hat-tree): Linktree da organização DevHatt. Centralize e simplifique o acesso aos nossos diversos projetos e plataformas.
-
 ## Extensões
 
 - [**Eslint-Config**](https://github.com/devhatt/devhatt-eslint-config): Facilita a configuração do ESLint nos projetos novos. Mantenha nosso código limpo e consistente.
