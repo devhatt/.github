@@ -110,7 +110,7 @@ Estes projetos não fazem parte da mentoria, portanto, não seguem todos os ritu
 
 - [**Blog DevHatt**](https://github.com/devhatt/blog): Projeto para criação de um blog/newsletter da DevHatt. Junte-se a nós para compartilhar conhecimento, insights e novidades do mundo da tecnologia.
 
-- [**Landing Pages**](https://github.com/devhatt/landing-pages): Projeto para criação das landing pages dos nossos projetos. Ajude-nos a criar uma ótima experiência para os visitantes dos nossos projetos.
+- [**Landing Pages**](https://github.com/devhatt/devhatt-lp): Projeto para criação das landing pages dos nossos projetos. Ajude-nos a criar uma ótima experiência para os visitantes dos nossos projetos.
 
 - [**Snippets**](https://github.com/devhatt/snippets): Conjunto de snippets úteis para facilitar o desenvolvimento. Contribua com seus próprios snippets e torne o trabalho de todos mais eficiente.
 
